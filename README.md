@@ -4,6 +4,8 @@
 This project uses machine learning techniques to predict student final grades (G3) based on 
 socio-demographic, behavioural, and academic factors. The goal is to analyse which factors 
 most influence student performance and to build accurate regression models that can predict final outcomes
+
+
 **Aim of the Project**
 To identify key factors influencing student academic performance
 To build and compare machine learning regression models
